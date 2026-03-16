@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **adityagour0841@gmail.com**
 
-- ⚡ Fun fact **I love one piece(anime)**
+-  **I love one piece(anime)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
