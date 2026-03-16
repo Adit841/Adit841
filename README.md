@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Aditya Gour</h1>
+<h1 align="center">Hi, I'm Aditya Gour</h1>
 <h3 align="center">A Passionate CSE Student | Exploring DSA, Full-Stack & Beyond | Always Eager to Learn</h3>
 
-- 🌱 I’m currently learning **DSA,C++,JAVA**
+-  I’m currently learning **javaScript, React.js, Node.js, Tailwind.css**
 
-- 📝- 📝 Sometimes I drop random thoughts & quotes on [Twitter](https://twitter.com/AdityaGour841) 😄
+-  Sometimes I drop random thoughts & quotes on [Twitter](https://twitter.com/AdityaGour841) 😄
 
-- 📫 How to reach me **adityagour0841@gmail.com**
+- How to reach me **adityagour0841@gmail.com**
 
 -  **I love one piece(anime)**
 
