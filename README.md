@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Aditya Gour</h1>
 <h3 align="center">A Passionate CSE Student | Exploring DSA, Full-Stack & Beyond | Always Eager to Learn</h3>
 
--  I’m currently learning **javaScript, React.js, Node.js, Tailwind.css**
+-  I’m currently learning **Next.js, DSA in C++, TypeScript, Linux**
 
 -  Sometimes I drop random thoughts & quotes on [Twitter](https://twitter.com/AdityaGour841) 😄
 
