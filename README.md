@@ -3,7 +3,7 @@
 
 -  I’m currently learning **Next.js, DSA in C++, TypeScript, Linux**
 
--  Sometimes I drop random thoughts & quotes on [Twitter](https://twitter.com/AdityaGour841) 😄
+- Trying to be an OPEN SORCERER. 🧙🏻
 
 - How to reach me **adityagour0841@gmail.com**
 
