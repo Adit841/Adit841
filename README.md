@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Aditya Gour</h1>
-<h3 align="center">A Passionate CSE Student | Exploring DSA, Full-Stack & Beyond | Always Eager to Learn</h3>
+<h3 align="center">A Passionate CSE Student | Exploring DSA, Full-Stack & OPEN SOURCE COMTIRBUTION | Always Eager to Learn</h3>
 
 -  I’m currently learning **Next.js, DSA in C++, TypeScript, Linux**
 
