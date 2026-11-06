@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Aditya Gour</h1>
 <h3 align="center">A Passionate CSE Student | Exploring DSA, Full-Stack & OPEN SOURCE CONTIRBUTION | Always Eager to Learn</h3>
 
--  I’m currently learning **Next.js, DSA in C++, TypeScript, Linux**
+-  I’m currently learning **Next.js, DSA in C++, TypeScript, **
 
 - Trying to be an OPEN SORCERER. 🧙🏻
 
